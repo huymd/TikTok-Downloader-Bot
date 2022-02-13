@@ -1,5 +1,5 @@
 # Copyright 2021 TerminalWarlord under the terms of the MIT
-# license found at https://github.com/TerminalWarlord/TikTok-Downloader-Bot/blob/master/LICENSE
+# license found at https://github.com/huymd/TikTok-Downloader-Bot/blob/master/LICENSE
 # Encoding = 'utf-8'
 # Fork and Deploy, do not modify this repo and claim it yours
 # For collaboration mail me at dev.jaybee@gmail.com
